@@ -1,0 +1,23 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes 
+conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará 
+a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+ for (por) es un bucle que nos permite ejecutar un bloque de programa mientra se cumple 
+ cierta condicion establecida en su inicializacion, perfecta para tareas repetitivas que se necesite 
+ controlar el numero de ejecuciones
+
+
+* `&&`, `||`, `!`
+
+Estos son los tres operadores logicos basicos de la algebra booleana y cada uno nos permite 
+hacer un tipo de nomparacion diferente, ejemplo;
+
+&&  AND  (Y)
+nos permite ejecutar una accion si y solo si se cumple dos comparacion (1>0 && 300>400 = true)
+
+||  OR   (O)
+nos permite ejetar una accion si solo una comparacion o la otra, es verdadera (1>4 || 40>50 = true) 
+
+!   NOT  (NO)
+es un operador logico que nos permite invertir el valor original (!true = false)
