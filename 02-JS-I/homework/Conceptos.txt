@@ -1,0 +1,21 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir 
+rápidamente cualquier agujero en tu comprensión.
+
+ * Variables:
+son valores que cambian a traves de que las vayamos trabajando, cosa distinta a lo que conocemos como constantes
+
+ * Strings
+ son valores de caracteres alfabeticos 
+
+ * Funciones (argumentos, `return`)
+una funcion es un proceso automatico que se ejecuta cada vez que lo llamamos, cuando tiene argumentos le asignamos
+una variable para operar dentro de la funcion y cuando tiene un return nos devuelve un valor.
+
+ * Declaraciones `if`
+de su traduccion del ingles 'if' significa 'si', nosotros ejecutaremos un bloque de 
+programa si y solo si se cumple el operador de comparacion de nuestro 'if'
+
+ * Valores booleanos (`true`, `false`)
+ los valores booleanos solo pueden tener dos posibles valores a nivel digital 
+ tenemos 1 y 0, a nivel de programacion es comun ver 'true' (verdadero) y 'false' (falso)
