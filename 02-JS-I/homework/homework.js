@@ -312,7 +312,7 @@ function esVocal(letra){
 
     return DatInc;  
 
-  } else if (letra == 'a' | letra == 'e' | letra == 'i' | letra ==  'o' | letra == 'u' ){
+  } else if (letra == 'a' | letra == 'e' | letra == 'i' | letra ==  'o' | letra == 'GIT ' ){
 
     return DatGood;
 
