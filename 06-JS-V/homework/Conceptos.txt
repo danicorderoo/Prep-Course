@@ -1,5 +1,14 @@
-1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos, 
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente 
+cualquier agujero en tu comprensión.
 
 * `prototype`
 
+el método prototype, nos permite acceder a propiedades heredadas de otros objetos "sus padres" y 
+busca la propiedad en diferentes cadenas hasta conseguir una coincidencia, la principal función de 
+prototype es compartir métodos entre objetos y heredar propiedades
+
 * _Constructors_ (de Clases)
+
+las clases es una plantilla para crear objetos, vienen de ES6 recientemente, es una forma para escribir un constructor de 
+clases
