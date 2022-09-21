@@ -1,0 +1,9 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos, 
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente 
+cualquier agujero en tu comprensión.
+
+* Funciones Callback
+
+Con los callbacks (cb) en cualquier parte del código pasar una función como argumento a otra función, 
+es decir podemos reciclar o accionar usos múltiples al mismo Callback. Lo que nos permite ahorrar 
+trabajo y generar que nuestro código sea escalable.
