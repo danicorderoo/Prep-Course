@@ -1,0 +1,44 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir 
+rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos
+	los objetos describen en más detalle algo en específico, ejemplo:
+
+		usuario = {
+			nombre:'Daniel',
+			Apellido: 'Cordero',
+			Edad: 26,
+			Nacionalidad: 'Venezolano'
+		}
+		
+	Podemos ver gran cantidad de datos de un solo elemento, lo que nos permite potenciar nuestro código,
+	ya que podemos acceder a esos datos en cualquier parte del código.
+
+	* Propiedades
+
+	Las propiedades son los elementos que describen el objeto, considerando el ejemplo anterior, nuestras propiedades son nombre, apellido, edad y nacionalidad.
+
+	* Métodos
+
+	Los métodos son funciones dentro de un objeto, y podemos invocarlas en cualquier parte del código 
+	con 'dot notation', de igual forma puede ir con argumentos como cualquier función.
+
+	* Bucle `for…in`
+
+	Este tipo de bucle es especial para recorrer objetos, recorre todo el objeto clave por 
+	clave hasta finalizar, es empleado para buscar propiedades específicas en un objeto y 
+	con ello acceder a su valor para trabajar con el valor.
+ 
+	* Notación de puntos vs. notación de corchetes
+
+	ambas nos funcionan para acceder a valores de alguna propiedad de un objeto, solo que 
+	una es más sencilla que otra
+
+	-Notación de puntos (Dot Notation)
+
+		usuario.nombre // Daniel
+	
+	-Notación de corchetes (Bracket Notation)
+
+		usuario['nombre'] // Daniel
