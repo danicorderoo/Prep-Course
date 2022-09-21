@@ -200,7 +200,7 @@ function agregarMetodoCalculoDescuento (producto) {
   producto.calcularPrecioDescuento = function (){
     var PrecioReal = 0;
 
-    PrecioReal = producto.precio - (producto.precio * producto.porcentajeDeDescuento);
+    PrecioReal = this.precio - (this.precio * this.porcentajeDeDescuento);
 
     return PrecioReal;
   }
