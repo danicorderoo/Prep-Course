@@ -1,0 +1,50 @@
+h1{
+    color:rgb(70, 25, 15)
+}
+
+
+
+img{ 
+    width: 400px;
+}
+
+#thirdDiv{
+    display: grid;
+    
+}
+
+#thirdDiv2{
+    margin:0px auto;
+    place-self: center;
+    background-color: black;
+    width: 700px;
+    height: 700px; 
+    border: 5px solid rgb(160, 130, 120);
+    text-align: center;
+
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 20px;
+}
+
+body {
+    
+    background-image: url("https://img.freepik.com/foto-gratis/fondo-mar-playa-vacio_74190-313.jpg?w=2000");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+    
+  }
+
+#divClass{
+    text-align:center;
+    display: grid;
+
+}
+
+#subdivClass{
+    margin:0px auto;
+    place-self: center;
+}
