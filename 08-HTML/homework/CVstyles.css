@@ -46,25 +46,12 @@ p{
 }
 
 #thirdDiv3{
-    margin:10px auto;
-    place-self: center;
-    background-color: rgb(71, 71, 71);
-    width: 800px;
-    height: 300px; 
-    border: 5px solid rgb(255, 255, 0);
-    text-shadow: 5px;
     text-align: 20px;
-}
-
-#thirdDiv4{
-    margin:10px auto;
     place-self: center;
-    background-color: rgb(71, 71, 71);
+    background-color: rgb(10, 10, 10);
     width: 800px;
-    height: 100px; 
-    border: 5px solid rgb(255, 255, 0);
-    text-shadow: 5px;
-    text-align: 20px;
+    height: 200px; 
+    border: 5px solid rgb(58, 58, 61);
 }
 
 #spanId{
