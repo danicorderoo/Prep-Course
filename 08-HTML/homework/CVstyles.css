@@ -1,0 +1,94 @@
+h1{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:rgb(255, 255, 255)
+}
+h2{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:rgb(255, 255, 255)
+}
+
+h3{
+    margin-right: 40px;
+
+    font-family: monospace;
+    color:rgb(255, 255, 255);
+    text-align: justify;
+}
+
+h4{
+    font-family: monospace;
+    color:rgb(255, 255, 255)
+}
+
+h5{
+    color:rgb(255, 255, 255)
+}
+
+p{
+    margin: 20px;
+}
+
+
+#thirdDiv{
+    display: grid;
+    
+}
+
+#thirdDiv2{
+    margin:10px auto;
+    place-self: center;
+    background-color: rgb(71, 71, 71);
+    width: 800px;
+    height: 360px; 
+    border: 5px solid rgb(255, 255, 0);
+    text-shadow: 5px;
+    text-align: 20px;
+}
+
+#thirdDiv3{
+    margin:10px auto;
+    place-self: center;
+    background-color: rgb(71, 71, 71);
+    width: 800px;
+    height: 300px; 
+    border: 5px solid rgb(255, 255, 0);
+    text-shadow: 5px;
+    text-align: 20px;
+}
+
+#thirdDiv4{
+    margin:10px auto;
+    place-self: center;
+    background-color: rgb(71, 71, 71);
+    width: 800px;
+    height: 100px; 
+    border: 5px solid rgb(255, 255, 0);
+    text-shadow: 5px;
+    text-align: 20px;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 20px;
+    color:rgb(70, 25, 15)
+}
+
+body {
+    
+    background-image: url("https://w0.peakpx.com/wallpaper/569/244/HD-wallpaper-geometric-abstract-black-designs-grey-mixed-triangle-yellow.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+    
+  }
+
+#divClass{
+    text-align:center;
+    display: grid;
+
+}
+
+#subdivClass{
+    margin:0px auto;
+    place-self: center;
+}

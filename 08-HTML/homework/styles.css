@@ -1,7 +1,9 @@
 h1{
     color:rgb(70, 25, 15)
 }
-
+h4{
+    color:rgb(70, 25, 15)
+}
 
 
 img{ 
@@ -27,6 +29,7 @@ img{
 #spanId{
     font-size: 18px;
     margin: 20px;
+    color:rgb(70, 25, 15)
 }
 
 body {
